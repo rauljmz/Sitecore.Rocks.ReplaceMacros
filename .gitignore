@@ -1,0 +1,6 @@
+*.dll
+bin/
+*.user
+*Publish*
+obj/
+Libraries/*.xml
